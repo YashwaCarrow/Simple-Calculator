@@ -1,6 +1,6 @@
 {
-  "name": "y4cm5-simpe-calcutor",
-  "version": "1.0.1",
+  "name": "y4cm5-simple-calculator",
+  "version": "1.0.1"
   "description": "A simple calculator with TypeScript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
